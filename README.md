@@ -9,8 +9,8 @@ Happy Printing folks!
 
 Check out branch [Voron2](https://github.com/Neristance/klipper-config/tree/voron2)
 
-My Voron 2.4 is a 350mm build using the Stealthburner Beta toolhead.
-It also has some extra LED lights in the case besides the Stealthbuner LEDs
+My Voron 2.4 is a 350mm build using the Stealthburner Beta toolhead running on a BTT Octopus
+It also has some extra LED lights in the case besides the Stealthbuner LEDs.
 
 While using this config make sure you are adapting the relevant settings:
 
@@ -21,6 +21,10 @@ While using this config make sure you are adapting the relevant settings:
 * etc.
 
 If you blindly use this it may harm your printer.
+
+All Configurations are based on the once provided by the Voron Design team
+* Voron 2 [Github](https://github.com/VoronDesign/Voron-2/tree/Voron2.4/firmware/klipper_configurations)
+* Stealthburner [Github](https://github.com/VoronDesign/Voron-Afterburner/tree/sb-beta)
 
 ## Voron 0.1
 
